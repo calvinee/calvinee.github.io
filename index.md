@@ -3,27 +3,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # 姓名：时凯胜
 
 ### 头像
 
 ![时凯胜](https://calvinee.github.io/images/personal/face.jpg)
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 > 现居地：宁夏银川
 > 联系电话：17806233591
