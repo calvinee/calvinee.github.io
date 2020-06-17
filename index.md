@@ -25,9 +25,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-现居地：宁夏银川
-联系电话：17806233591
-电子邮箱：17806233591@163.com
+> 现居地：宁夏银川
+> 联系电话：17806233591
+> 电子邮箱：17806233591@163.com
 
 ## 教育背景
 
