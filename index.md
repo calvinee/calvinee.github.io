@@ -4,8 +4,6 @@ layout: 个人简历
 
 # 姓名：时凯胜
 
-### 头像
-
 ![时凯胜](https://calvinee.github.io/images/personal/face.jpg)
 
 > 电子邮箱：17806233591@163.com
