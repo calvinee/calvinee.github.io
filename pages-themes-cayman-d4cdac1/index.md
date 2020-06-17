@@ -1,0 +1,150 @@
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# 姓名：时凯胜
+
+现居地：宁夏银川
+联系电话：17806233591
+电子邮箱：17806233591@163.com
+
+## 教育背景
+
+> 2015.9~2019.9 青岛理工大学 电子信息科学与技术 学士学位 
+*   主修课程：通信原理、电路原理、数字电子技术基础、模拟电子技术基础、微机原理与接口技术、数字图像处理、信 号与系统、电脑辅助 VHDL 设计、数据结构、数学建模基础、程序设计基础、半导体物理等。
+> 2017.9~2018.1 台湾师范大学 电机工程系 交流生
+*   主修课程：电脑辅助VHDL设计、单晶片控制、资料结构、数位控制系统、新传播科技与社会
+### 实践/项目经历
+> 2019.03~2019.05 低功耗可穿戴智能心率监测系统；
+*   搭建基于NodeMCU V3 低功耗物联网平台搭建软硬件平台，硬件以NodeMCU V3、MPU6050 三轴加速度 计,MAX30102 光电传感器为主，软件基于IEEE802.11协议和相关采样算法以及phpMyAdmin平台自建的实时数 据库，构建单全工通信系统的佩戴在手腕的智能心率监测系统；
+> 2018.08~2018.09 WEB前端技术学习
+*   在烟台杰润教育，学习了HTML、CSS、JS和基本框架React、Vue用于设计前端界面，完成了多个网站的设计， 实现页面互动等。
+> 2017.08~2017.09 基于 STM32 单片机的电容式手势识别系统
+*   利用 STM32单片机、FDC2114 传感器、STM32 单片机、OLED 显示器实现手势识别功能； 实现石头、剪刀、布和数字 1~10 的分辨和显示；
+> 2017.03~2017.04 基于8051单片机的低功耗自动寻迹避障智能小车系统
+*   利用STC8051单片机与红外传感器实现小车依据黑白线的寻迹功能。  利用超声波HC-SR04测距，实现小车遇障自动转向
+> 2019.03~2019.06 博世汽车部件（苏州）有限公司 AA-TR/MTR-CN 实习生
+> 负责部分部件更新和检测；  协助部门管理运营和产品销售与回收；  负责产品信息标注与仓库管理
+> 2015.07~2019.06 宁夏青年公益实践中心 新传播部干事/部长
+*   负责中心自媒体（如微博、微信公众）的信息发布及维护；  数据分析网友使用习惯、情感及体验感受，结合产品特点撰写传播策划方案；  组织运营活动和撰写活动文案，如宁夏模拟联合国大会、宁夏青年领导力峰会、公益收书赠书活动等；
+
+#### 学校经历
+> 2015.09~2017.03 院学生会和校学生会 干事长
+*   参与新媒体运营，负责软文的策划和活动的信息发布及维护；  参与组织策划团建，招新，培训的运营维护活动。
+> 2015.09~2017.05 数学协会 干事长
+*   参与课堂教程编辑和课堂秩序的维护；  参与组织招新，培训的运营维护活动
+
+##### 个人技能
+> 语言能力：良好的英文阅读写作能力
+> 计算机能力：C、C++、LUA、CAD、MATLAB、VHDL、Altium、Multilism.
+
+###### 个人评价
+> 我有电子信息学科知识体系的良好理论和实践基础；善于学习使用软件与硬件并吸取经验；拥有一定的电子设计 的经验，电路设计能力和编程能力；并且我是性格沉稳，做事有耐心和进取心，善于反思，容易相处，且富有团队责 任感和开创精神
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
