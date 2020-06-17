@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # 姓名：时凯胜
 
-### Small image
+### 头像
 
 
 ![时凯胜](https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.jpg)
