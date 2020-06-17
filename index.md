@@ -1,5 +1,5 @@
 ---
-layout: 个人简历
+layout: default
 ---
 
 # 姓名：时凯胜
