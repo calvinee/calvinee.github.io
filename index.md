@@ -15,8 +15,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### 头像
 
-
 ![时凯胜](https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.jpg)
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 现居地：宁夏银川
 联系电话：17806233591
