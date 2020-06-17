@@ -4,6 +4,12 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -11,6 +17,10 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # 姓名：时凯胜
+
+### Small image
+
+![Octocat](https://https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.png.jpg)
 
 现居地：宁夏银川
 联系电话：17806233591
@@ -49,98 +59,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ###### 个人评价
 > 我有电子信息学科知识体系的良好理论和实践基础；善于学习使用软件与硬件并吸取经验；拥有一定的电子设计 的经验，电路设计能力和编程能力；并且我是性格沉稳，做事有耐心和进取心，善于反思，容易相处，且富有团队责 任感和开创精神
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
@@ -148,4 +66,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
 
