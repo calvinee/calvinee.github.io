@@ -1,8 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ---
 layout: default
@@ -20,7 +15,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Small image
 
-![Octocat](https://https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.png.jpg)
+
+![时凯胜](https://https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.jpg)
 
 现居地：宁夏银川
 联系电话：17806233591
