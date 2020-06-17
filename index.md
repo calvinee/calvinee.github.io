@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### 头像
 
-![时凯胜](https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.jpg)
+![时凯胜](https://calvinee.github.io/images/personal/face.jpg)
 
 ### Small image
 
