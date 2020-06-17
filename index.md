@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ### 头像
 
 
-![时凯胜](https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.jpg)
+![时凯胜] (https://github.com/calvinee/calvinee.github.io/blob/master/images/icons/personal/face.jpg)
 
 现居地：宁夏银川
 联系电话：17806233591
